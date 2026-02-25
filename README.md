@@ -5,7 +5,7 @@
 <hr>
 
 <h3>Hakkında</h3>
-<p>2024 yılında NURİ PAKDİL ANADOLU LİSESİ'nden mezun oldum. 2025 yılında KTO Karatay Üniversitesi Bilgisayar Programcılığı ve ANADOLU ÜNİVERSİTESİ (AÖF) Tıbbi Dokümantasyon Ve Sekreterlik bölümlerini okumaya başladım ve birinci sınıf öğrencisiyim.Okulumu bitirdikten sonra sınavlara girip her zaman hayalini kurduğum polisliğe girmeyi düşünüyorum.Günlük olarak kitap okumayı, dizi izlemeyi, ailemle vakit geçirmeyi, ingilizce kelime ezberleme gibi aktiveler yapıyorum. </p>
+<p>2024 yılında NURİ PAKDİL ANADOLU LİSESİ'nden mezun oldum. 2025 yılında AMASYA ÜNİVERSİTESİ Bilgisayar Programcılığı ve ANADOLU ÜNİVERSİTESİ (AÖF) Tıbbi Dokümantasyon Ve Sekreterlik bölümlerini okumaya başladım ve birinci sınıf öğrencisiyim.Okulumu bitirdikten sonra sınavlara girip her zaman hayalini kurduğum polisliğe girmeyi düşünüyorum.Günlük olarak kitap okumayı, dizi izlemeyi, ailemle vakit geçirmeyi, ingilizce kelime ezberleme gibi aktiveler yapıyorum. </p>
 
 <hr>
 <h3>İş Deneyimi</h3>
